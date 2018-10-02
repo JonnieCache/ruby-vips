@@ -60,7 +60,7 @@ gem 'ruby-vips'
 On Windows, you'll need to set the `RUBY_DLL_PATH` environment variable to 
 point to the libvips bin directory.
 
-Take a look in `examples/`. There is [full API
+Take a look in `example/`. There is [full API
 documentation](http://www.rubydoc.info/gems/ruby-vips). 
 
 # Example
